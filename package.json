@@ -1,0 +1,13 @@
+{
+    "name": "student-project",
+    "version": "1.0.0",
+    "description": "Student Form Jest Example",
+    "main": "studentForm.js",
+    "scripts": {
+      "test": "jest test.js"
+    },
+    "devDependencies": {
+      "jest": "^30.0.0"
+    }
+  }
+  
