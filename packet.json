@@ -6,6 +6,13 @@
       "mobile": "9876543210",
       "branch": "Computer Science",
       "password": "12345678"
+    },
+    {
+      "name": "Sakshi Rohira",
+      "email": "sakshiirohira@gmail.com",
+      "mobile": "6356789000",
+      "branch": "cse",
+      "password": "1234567890"
     }
   ]
 }
